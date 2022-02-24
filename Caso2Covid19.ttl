@@ -1,0 +1,37 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.com/node/Alpha> a <http://example.com/node/Virus> .
+
+<http://example.com/node/Beta> a <http://example.com/node/Virus> .
+
+<http://example.com/node/Delta> a <http://example.com/node/Virus> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q188920> .
+
+<http://example.com/node/Gamma> a <http://example.com/node/Virus> .
+
+<http://example.com/node/Lambda> a <http://example.com/node/Virus> .
+
+<http://example.com/node/Mu> a <http://example.com/node/Virus> .
+
+<http://example.com/node/Omicron> a <http://example.com/node/Virus> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q109739412> .
+
+<http://www.wikidata.org/entity/Q109739412> ns1:P155 <http://www.wikidata.org/entity/Q107985125> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q104450895>,
+        <http://www.wikidata.org/entity/Q105758262>,
+        <http://www.wikidata.org/entity/Q107143124> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q110497086>,
+        <http://www.wikidata.org/entity/Q110497087> ;
+    ns1:P6104 <http://www.wikidata.org/entity/Q87748614> ;
+    ns1:P9368 "omicron" .
+
+<http://www.wikidata.org/entity/Q188920> ns1:P121 <http://www.wikidata.org/entity/Q6401>,
+        <http://www.wikidata.org/entity/Q6418>,
+        <http://www.wikidata.org/entity/Q6423>,
+        <http://www.wikidata.org/entity/Q6425>,
+        <http://www.wikidata.org/entity/Q6475>,
+        <http://www.wikidata.org/entity/Q6478>,
+        <http://www.wikidata.org/entity/Q6484> ;
+    ns1:P414 <http://www.wikidata.org/entity/Q13677> .
+
