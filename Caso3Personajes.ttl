@@ -117,7 +117,7 @@
 
 <http://example.com/node/Jose_Modesto_Larrea_Jijon> a <http://example.com/node/Person> .
 
-<http://example.com/node/Jose_Placido_Caama�o_Cornejo> a <http://example.com/node/Person> .
+<http://example.com/node/Jose_Placido_Caamao_Cornejo> a <http://example.com/node/Person> .
 
 <http://example.com/node/Jose_Rafael_Bustamante> a <http://example.com/node/Person> .
 
