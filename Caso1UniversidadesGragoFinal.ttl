@@ -1,0 +1,380 @@
+@prefix ns1: <http://www.wikidata.org/prop/> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns3: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix ns4: <http://wikiba.se/ontology#> .
+@prefix ns5: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.com/node/Escuela_Politecnica_Nacional> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8778175> .
+
+<http://example.com/node/Escuela_Superior_Polit�cnica_Agropecuaria_de_Manab�> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29051048> .
+
+<http://example.com/node/Escuela_Superior_Polit�cnica_de_Chimborazo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16320182> .
+
+<http://example.com/node/Escuela_Superior_Polit�cnica_del_Litoral> a <http://example.com/node/University> .
+
+<http://example.com/node/Escuela_de_Direccion_de_Empresas> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6881511> .
+
+<http://example.com/node/FLACSO_Ecuador_Facultad_Latinoamericana_de_Ciencias_Sociales> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+<http://example.com/node/Ikiam_Universidad_Regional_Amaz�nica> a <http://example.com/node/University> .
+
+<http://example.com/node/Instituto_de_Altos_Estudios_Nacionales> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28813667> .
+
+<http://example.com/node/Pontificia_Universidad_Cat�lica_Sede_Ibarra> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Pontificia_Universidad_Cat�lica_de_Ecuador_Sede_Santo_Domingo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+<http://example.com/node/Pontificia_Universidad_Cat�lica_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1537436> .
+
+<http://example.com/node/Pontificia_Universidad_Cat�lica_del_Ecuador_Sede_Ambato> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q210161> .
+
+<http://example.com/node/Universidad_Agraria_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Andina_Sim�n_Bol�var_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+<http://example.com/node/Universidad_Casa_Grande> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q27982784> .
+
+<http://example.com/node/Universidad_Cat�lica_de_Cuenca> a <http://example.com/node/University> .
+
+<http://example.com/node/Universidad_Cat�lica_de_Santiago_de_Guayaquil> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43509> .
+
+<http://example.com/node/Universidad_Central_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Estatal_Amaz�nica> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43509> .
+
+<http://example.com/node/Universidad_Estatal_Pen�nsula_de_Santa_Elena> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43509> .
+
+<http://example.com/node/Universidad_Estatal_de_Bol�var> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Estatal_de_Milagro> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879073> .
+
+<http://example.com/node/Universidad_Estatal_del_Sur_de_Manab�_UNESUM> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q27982784> .
+
+<http://example.com/node/Universidad_Iberoamericana_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Internacional_de_La_Rioja_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Internacional_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2495685> .
+
+<http://example.com/node/Universidad_Laica_Eloy_Alfaro_de_Manabi> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879085> .
+
+<http://example.com/node/Universidad_Laica_Vicente_Rocafuerte_de_Guayaquil> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q43509> .
+
+<http://example.com/node/Universidad_Metropolitana_del_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30294110> .
+
+<http://example.com/node/Universidad_Nacional_de_Chimborazo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879085> .
+
+<http://example.com/node/Universidad_Nacional_de_Educaci�n_UNAE> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Nacional_de_Loja> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24170810> .
+
+<http://example.com/node/Universidad_Particular_Internacional_SEK> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Particular_San_Gregorio_de_Portoviejo_USGP> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q990716> .
+
+<http://example.com/node/Universidad_Polit�cnica_Estatal_del_Carchi_UPEC> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29051048> .
+
+<http://example.com/node/Universidad_Polit�cnica_Salesiana_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+<http://example.com/node/Universidad_Regional_Aut�noma_de_los_Andes_UNIANDES> a <http://example.com/node/University> .
+
+<http://example.com/node/Universidad_San_Francisco_de_Quito> a <http://example.com/node/University> .
+
+<http://example.com/node/Universidad_Santa_Mar�a_de_Chile_Campus_Guayaquil> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Tecnol�gica_ECOTEC> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q29051048> .
+
+<http://example.com/node/Universidad_Tecnol�gica_Empresarial_de_Guayaquil> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Tecnol�gica_Indoam�rica> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_Tecnol�gica_Israel> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_T�cnica_Estatal_de_Quevedo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879073> .
+
+<http://example.com/node/Universidad_T�cnica_Luis_Vargas_Torres_de_Esmeraldas> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_T�cnica_Particular_de_Loja> a <http://example.com/node/University> .
+
+<http://example.com/node/Universidad_T�cnica_de_Ambato> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2495685> .
+
+<http://example.com/node/Universidad_T�cnica_de_Babahoyo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879073> .
+
+<http://example.com/node/Universidad_T�cnica_de_Cotopaxi> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85879085> .
+
+<http://example.com/node/Universidad_T�cnica_de_Machala> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24170810> .
+
+<http://example.com/node/Universidad_T�cnica_de_Manab�> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_T�cnica_del_Norte> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24170810> .
+
+<http://example.com/node/Universidad_UTE> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_Cuenca> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_Especialidades_Esp�ritu_Santo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_Especialidades_Turisticas> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30294125> .
+
+<http://example.com/node/Universidad_de_Guayaquil> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_Otavalo> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30294125> .
+
+<http://example.com/node/Universidad_de_las_AmEricas_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_las_Artes_de_Ecuador> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Universidad_de_las_Fuerzas_Armadas_ESPE_(Escuela_Polit�cnica_del_Ej�rcito)> a <http://example.com/node/University> .
+
+<http://example.com/node/Universidad_de_los_Hemisferios> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6156836> .
+
+<http://example.com/node/Universidad_del_Azuay> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6156840> .
+
+<http://example.com/node/Universidad_del_Pac�fico_Escuela_de_Negocios> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3918> .
+
+<http://example.com/node/Yachay_Tech> a <http://example.com/node/University> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16320182> .
+
+<http://www.wikidata.org/entity/Q1537436> ns4:identifiers "17" ;
+    ns4:sitelinks "11" ;
+    ns4:statements "35" ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P4081 "232589" ;
+    ns2:P8687 "32525" .
+
+<http://www.wikidata.org/entity/Q210161> ns1:P2046 <http://www.wikidata.org/entity/statement/Q210161-6ae36dd3-4615-a560-0f55-3d120cc9b0ac> ;
+    ns1:P2924 <http://www.wikidata.org/entity/statement/Q210161-81E2F713-C441-4046-9F67-6B6FD9F2F9D9> ;
+    ns1:P3417 <http://www.wikidata.org/entity/statement/Q210161-c1974cb0-48b5-5e04-80e7-c823e5d19fd1> ;
+    ns1:P6706 <http://www.wikidata.org/entity/statement/Q210161-24EE417B-6E6D-47A5-BA30-EE8F861928A1> ;
+    ns1:P6766 <http://www.wikidata.org/entity/statement/Q210161-C217B2BD-3D5F-4561-8F7E-7AD2017C510D> ;
+    ns1:P7859 <http://www.wikidata.org/entity/statement/Q210161-5B8278B5-78AE-4393-AC7D-75E39E773399> ;
+    ns1:P8168 <http://www.wikidata.org/entity/statement/Q210161-793E3B7D-AF63-4D83-8B32-D6F065060B63> ;
+    ns1:P8826 <http://www.wikidata.org/entity/statement/Q210161-DC7FA6C1-511C-4DBA-A45C-C4229E5ACCFF> .
+
+<http://www.wikidata.org/entity/Q28813667> ns4:sitelinks "1" ;
+    ns4:statements "20" ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918>,
+        <http://www.wikidata.org/entity/Q43229> ;
+    ns2:P625 "Point(-78.4853509 -0.173115)" ;
+    ns2:P8687 "19360" .
+
+<http://www.wikidata.org/entity/Q30294110> ns5:dateModified "2022-01-26T08:00:16Z" ;
+    ns5:version "1568233739" ;
+    ns1:P10283 <http://www.wikidata.org/entity/statement/Q30294110-E116B0E7-880A-493E-8A18-12282EC60A0E> ;
+    ns2:P10283 "I91071751" ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q2385804>,
+        <http://www.wikidata.org/entity/Q3918>,
+        <http://www.wikidata.org/entity/Q45400320> .
+
+<http://www.wikidata.org/entity/Q6156836> ns4:identifiers "7" ;
+    ns4:sitelinks "2" ;
+    ns4:statements "14" ;
+    ns1:P571 <http://www.wikidata.org/entity/statement/Q6156836-fc06dc24-4beb-8f5c-6861-227cc68af1f9> ;
+    ns1:P625 <http://www.wikidata.org/entity/statement/Q6156836-c685b61f-419c-8e0b-dabd-a18a8c48cec7> ;
+    ns1:P856 <http://www.wikidata.org/entity/statement/Q6156836-0b224f88-4bcb-d863-c610-cd4126701caf> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> .
+
+<http://www.wikidata.org/entity/Q6156840> ns4:identifiers "13" ;
+    ns4:sitelinks "3" ;
+    ns4:statements "24" ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P3500 "27892" ;
+    ns2:P625 "Point(-78.999979 -2.9189369)" ;
+    ns2:P8687 "20935" .
+
+<http://www.wikidata.org/entity/Q6881511> ns2:P1889 <http://www.wikidata.org/entity/Q1125649> ;
+    ns2:P279 <http://www.wikidata.org/entity/Q155076>,
+        <http://www.wikidata.org/entity/Q362482>,
+        <http://www.wikidata.org/entity/Q4830453> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q2135465> ;
+    ns2:P460 <http://www.wikidata.org/entity/Q4830453>,
+        <http://www.wikidata.org/entity/Q783794> ;
+    ns2:P910 <http://www.wikidata.org/entity/Q5982360> .
+
+<http://www.wikidata.org/entity/Q8778175> ns5:dateModified "2021-12-24T16:00:10Z" ;
+    ns5:version "1549439803" ;
+    ns1:P276 <http://www.wikidata.org/entity/statement/Q8778175-19355d0d-4616-4e83-30ad-0beb113e0b3b> ;
+    ns3:P214 <http://viaf.org/viaf/137812558> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q45400320> ;
+    ns2:P3876 <http://www.wikidata.org/entity/Q32310871> ;
+    ns2:P625 "Point(-78.48888889 -0.21055556)" ;
+    ns2:P910 <http://www.wikidata.org/entity/Q6232837> .
+
+<http://www.wikidata.org/entity/Q990716> ns4:identifiers "11" ;
+    ns4:sitelinks "39" ;
+    ns4:statements "48" ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P2044 "53" ;
+    ns2:P2046 "418.1" ;
+    ns2:P30 <http://www.wikidata.org/entity/Q828> ;
+    ns2:P421 <http://www.wikidata.org/entity/Q5390> .
+
+<http://www.wikidata.org/entity/Q16320182> ns5:dateModified "2022-02-20T14:03:00Z" ;
+    ns5:version "1580358470" ;
+    ns4:sitelinks "3" ;
+    ns4:statements "17" ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P625 "Point(-78.170027777 0.410611111)" ;
+    ns2:P8687 "24218" .
+
+<http://www.wikidata.org/entity/Q2495685> ns4:identifiers "8" ;
+    ns4:sitelinks "3" ;
+    ns4:statements "15" ;
+    ns3:P214 <http://viaf.org/viaf/156136093> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P2196 "6094" ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> .
+
+<http://www.wikidata.org/entity/Q27982784> ns4:identifiers "8" ;
+    ns4:sitelinks "1" ;
+    ns4:statements "19" ;
+    ns2:P131 <http://www.wikidata.org/entity/Q43509> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P3500 "356983" ;
+    ns2:P8687 "9987" .
+
+<http://www.wikidata.org/entity/Q30294125> ns5:dateModified "2021-02-27T04:28:35Z" ;
+    ns5:version "1371255426" ;
+    ns4:statements "13" ;
+    ns3:P214 <http://viaf.org/viaf/747151172690739210001> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q1020794> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q2385804> ;
+    ns2:P580 "2002-01-01T00:00:00Z" .
+
+<http://www.wikidata.org/entity/Q24170810> ns5:version "1461758115" ;
+    ns4:identifiers "3" ;
+    ns4:sitelinks "1" ;
+    ns4:statements "10" ;
+    ns1:P856 <http://www.wikidata.org/entity/statement/Q24170810-c8740b54-4749-8932-bd5c-9bcb00dab427> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P856 <http://www.unl.edu.ec/> .
+
+<http://www.wikidata.org/entity/Q29051048> ns4:statements "20" ;
+    ns3:P214 <http://viaf.org/viaf/148157679> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2051898>,
+        <http://www.wikidata.org/entity/Q43509> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918>,
+        <http://www.wikidata.org/entity/Q45400320> ;
+    ns2:P8687 "10351" .
+
+<http://www.wikidata.org/entity/Q85879073> ns5:dateModified "2021-03-29T19:18:55Z" ;
+    ns5:version "1392456430" ;
+    ns4:identifiers "0" ;
+    ns4:sitelinks "1" ;
+    ns4:statements "0" .
+
+<http://www.wikidata.org/entity/Q85879085> ns5:dateModified "2021-11-09T15:20:08Z" ;
+    ns5:version "1524855827" ;
+    ns4:identifiers "4" ;
+    ns4:sitelinks "2" ;
+    ns4:statements "14" ;
+    ns1:P571 <http://www.wikidata.org/entity/statement/Q85879085-4bb84df7-447e-19c4-c6ba-cb942d22c8df> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P571 "1995-08-31T00:00:00Z" .
+
+<http://www.wikidata.org/entity/Q43509> ns1:P4342 <http://www.wikidata.org/entity/statement/Q43509-F6D759D2-1E42-4825-B58C-738B9F6C9773> ;
+    ns1:P8189 <http://www.wikidata.org/entity/statement/Q43509-8CB174A4-C995-452E-9AD6-2168828348C1> ;
+    ns3:P1566 <http://sws.geonames.org/3657509> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q1991935> ;
+    ns2:P1343 <http://www.wikidata.org/entity/Q3181656> ;
+    ns2:P1376 <http://www.wikidata.org/entity/Q335464> ;
+    ns2:P190 <http://www.wikidata.org/entity/Q1026270>,
+        <http://www.wikidata.org/entity/Q171632> ;
+    ns2:P206 <http://www.wikidata.org/entity/Q1343252> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q1549591>,
+        <http://www.wikidata.org/entity/Q1637706> ;
+    ns2:P3842 <http://www.wikidata.org/entity/Q1991935>,
+        <http://www.wikidata.org/entity/Q335464> ;
+    ns2:P7867 <http://www.wikidata.org/entity/Q84035190> ;
+    ns2:P8189 "987007564231905171" ;
+    ns2:P8989 <http://www.wikidata.org/entity/Q104596692> .
+
+<http://www.wikidata.org/entity/Q736> ns3:P214 <http://viaf.org/viaf/150084159> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P208 <http://www.wikidata.org/entity/Q55645704> ;
+    ns2:P36 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P37 <http://www.wikidata.org/entity/Q1321> ;
+    ns2:P38 <http://www.wikidata.org/entity/Q4917> ;
+    ns2:P47 <http://www.wikidata.org/entity/Q419>,
+        <http://www.wikidata.org/entity/Q739> .
+
+<http://www.wikidata.org/entity/Q3918> ns2:P1552 <http://www.wikidata.org/entity/Q108401094> ;
+    ns2:P1889 <http://www.wikidata.org/entity/Q30934637> ;
+    ns2:P1963 <http://www.wikidata.org/entity/P3876>,
+        <http://www.wikidata.org/entity/P571>,
+        <http://www.wikidata.org/entity/P576>,
+        <http://www.wikidata.org/entity/P6375>,
+        <http://www.wikidata.org/entity/P856> ;
+    ns2:P279 <http://www.wikidata.org/entity/Q38723> .
+
