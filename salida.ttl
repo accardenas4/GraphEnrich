@@ -1,0 +1,47 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix ns2: <http://www.wikidata.org/prop/direct/> .
+@prefix ns3: <http://schema.org/> .
+@prefix ns4: <http://wikiba.se/ontology#> .
+@prefix ns5: <http://www.wikidata.org/prop/> .
+@prefix ns6: <http://example.com/node/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+ns6:Ecuador a ns6:Country ;
+    ns6:name "Ecuador" ;
+    owl:sameAs <http://www.wikidata.org/entity/Q736> .
+
+ns6:UIDE a ns6:University ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2495685> .
+
+ns6:UTPL a ns6:University .
+
+ns6:universidad_nacional_de_loja a ns6:University ;
+    owl:sameAs <http://www.wikidata.org/entity/Q24170810> .
+
+<http://www.wikidata.org/entity/Q24170810> ns3:version "1461758115" ;
+    ns4:identifiers "3" ;
+    ns4:sitelinks "1" ;
+    ns4:statements "10" ;
+    ns5:P856 <http://www.wikidata.org/entity/statement/Q24170810-c8740b54-4749-8932-bd5c-9bcb00dab427> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> ;
+    ns2:P856 <http://www.unl.edu.ec/> .
+
+<http://www.wikidata.org/entity/Q2495685> ns4:identifiers "8" ;
+    ns4:sitelinks "3" ;
+    ns4:statements "15" ;
+    ns1:P214 <http://viaf.org/viaf/156136093> ;
+    ns2:P131 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P2196 "6094" ;
+    ns2:P31 <http://www.wikidata.org/entity/Q3918> .
+
+<http://www.wikidata.org/entity/Q736> ns1:P214 <http://viaf.org/viaf/150084159> ;
+    ns2:P17 <http://www.wikidata.org/entity/Q736> ;
+    ns2:P208 <http://www.wikidata.org/entity/Q55645704> ;
+    ns2:P36 <http://www.wikidata.org/entity/Q2900> ;
+    ns2:P37 <http://www.wikidata.org/entity/Q1321> ;
+    ns2:P38 <http://www.wikidata.org/entity/Q4917> ;
+    ns2:P47 <http://www.wikidata.org/entity/Q419>,
+        <http://www.wikidata.org/entity/Q739> .
+
