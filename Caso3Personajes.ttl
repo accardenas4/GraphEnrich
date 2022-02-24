@@ -1,0 +1,477 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://wikiba.se/ontology#> .
+@prefix ns3: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix ns4: <http://www.wikidata.org/prop/> .
+@prefix ns5: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.com/node/Abdala_Bucaram_Ortiz> a <http://example.com/node/Person> .
+
+<http://example.com/node/Agustin_Guerrero> a <http://example.com/node/Person> .
+
+<http://example.com/node/Alberto_Enriquez_Gallo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Alberto_Guerrero_Martinez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Alberto_Hidalgo_Nevarez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Alfredo_Palacio> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q217555> .
+
+<http://example.com/node/Alfredo_Poveda_Burbano> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q734584> .
+
+<http://example.com/node/Andres_F._Cordova_Nieto> a <http://example.com/node/Person> .
+
+<http://example.com/node/Antonio_Borrero> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2718832> .
+
+<http://example.com/node/Antonio_Flores_Jijon> a <http://example.com/node/Person> .
+
+<http://example.com/node/Antonio_Pons> a <http://example.com/node/Person> .
+
+<http://example.com/node/Aparicio_Ribadeneira> a <http://example.com/node/Person> .
+
+<http://example.com/node/Aurelio_Mosquera_Narvaez> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q253787> .
+
+<http://example.com/node/Camilo_Ponce_Enriquez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Carlos_Alberto_Arroyo_del_Rio> a <http://example.com/node/Person> .
+
+<http://example.com/node/Carlos_Freile_Zaldumbide> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2939350> .
+
+<http://example.com/node/Carlos_Julio_Arosemena_Monroy> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q718247> .
+
+<http://example.com/node/Carlos_Julio_Arosemena_Tola> a <http://example.com/node/Person> .
+
+<http://example.com/node/Carlos_Mancheno_Cajas> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q434552> .
+
+<http://example.com/node/Carlos_Mateus> a <http://example.com/node/Person> .
+
+<http://example.com/node/Clemente_Yerovi_Indaburu> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q119145> .
+
+<http://example.com/node/Diego_Noboa_y_Arteta> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1821930> .
+
+<http://example.com/node/Eloy_Alfaro_Delgado> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q378158> .
+
+<http://example.com/node/Emilio_Estrada_Carmona> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3509261> .
+
+<http://example.com/node/Fabian_Alarcon_Rivera> a <http://example.com/node/Person> .
+
+<http://example.com/node/Federico_Paez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Francisco_Andrade_Marin> a <http://example.com/node/Person> .
+
+<http://example.com/node/Francisco_Gomez_de_la_Torre> a <http://example.com/node/Person> .
+
+<http://example.com/node/Francisco_Leon_Franco> a <http://example.com/node/Person> .
+
+<http://example.com/node/Francisco_Robles> a <http://example.com/node/Person> .
+
+<http://example.com/node/Gabriel_Garcia_Moreno> a <http://example.com/node/Person> .
+
+<http://example.com/node/Galo_Plaza_Lasso> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q887063> .
+
+<http://example.com/node/Gonzalo_Segundo_Cordova> a <http://example.com/node/Person> .
+
+<http://example.com/node/Guillermo_Franco> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q176119> .
+
+<http://example.com/node/Guillermo_Freile_Posso> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30914301> .
+
+<http://example.com/node/Guillermo_Rodriguez_Lara> a <http://example.com/node/Person> .
+
+<http://example.com/node/Gustavo_Noboa> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q471291> .
+
+<http://example.com/node/Homero_Viteri_Lafronte> a <http://example.com/node/Person> .
+
+<http://example.com/node/Ignacio_Veintimilla> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jaime_Roldos_Aguilera> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jamil_Mahuad_Witt> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q471248> .
+
+<http://example.com/node/Jeronimo_Carrion_y_Palacio> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Antonio_Gomez_Gault> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Javier_Eguiguren> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Joaquin_de_Olmedo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Luis_Tamayo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Maria_Urbina> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Modesto_Larrea_Jijon> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Placido_Caama�o_Cornejo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Jose_Rafael_Bustamante> a <http://example.com/node/Person> .
+
+<http://example.com/node/Juan_Javier_Espinosa> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2688125> .
+
+<http://example.com/node/Juan_Jose_Flores> a <http://example.com/node/Person> .
+
+<http://example.com/node/Juan_de_Dios_Martinez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Julio_Enrique_Moreno> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3509043> .
+
+<http://example.com/node/Lenin_Moreno> a <http://example.com/node/Person> .
+
+<http://example.com/node/Leon_Febres_Cordero> a <http://example.com/node/Person> .
+
+<http://example.com/node/Leonidas_Plaza_Gutierrez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Lizardo_Garcia> a <http://example.com/node/Person> .
+
+<http://example.com/node/Lucio_Gutierrez_Borbua> a <http://example.com/node/Person> .
+
+<http://example.com/node/Luis_Alberto_Larrea_Alba> a <http://example.com/node/Person> .
+
+<http://example.com/node/Luis_Cabrera_Sevilla> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q10329> .
+
+<http://example.com/node/Luis_Guillermo_Duran_Arcentales> a <http://example.com/node/Person> .
+
+<http://example.com/node/Luis_Larrea_Alba> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3509277> .
+
+<http://example.com/node/Luis_Leoro_Franco> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23907063> .
+
+<http://example.com/node/Luis_Maldonado_Tamayo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Luis_Napoleon_Dillon> a <http://example.com/node/Person> .
+
+<http://example.com/node/Manuel_Ascazubi_Matheu> a <http://example.com/node/Person> .
+
+<http://example.com/node/Manuel_Carrion_Pinzano> a <http://example.com/node/Person> .
+
+<http://example.com/node/Manuel_Maria_Borrero> a <http://example.com/node/Person> .
+
+<http://example.com/node/Marcos_Gandara_Enriquez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Mariano_Suarez_Veintimilla> a <http://example.com/node/Person> .
+
+<http://example.com/node/Modesto_Arizaga_Luque> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q204561> .
+
+<http://example.com/node/Neptali_Bonifaz_Ascazubi> a <http://example.com/node/Person> .
+
+<http://example.com/node/Osvaldo_Hurtado_Larrea> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q878508> .
+
+<http://example.com/node/Otto_Arosemena_Gomez> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q434746> .
+
+<http://example.com/node/Pablo_Herrera_Gonzalez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Pacifico_Chiriboga> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7122823> .
+
+<http://example.com/node/Pedro_Jose_de_Arteta> a <http://example.com/node/Person> .
+
+<http://example.com/node/Pedro_Lizarzaburu> a <http://example.com/node/Person> .
+
+<http://example.com/node/Pedro_Pablo_Eguez_Baquerizo> a <http://example.com/node/Person> .
+
+<http://example.com/node/Rafael_Correa> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q19581> .
+
+<http://example.com/node/Rafael_Perez_Pareja> a <http://example.com/node/Person> .
+
+<http://example.com/node/Rafael_Polit> a <http://example.com/node/Person> .
+
+<http://example.com/node/Ramon_Borrero> a <http://example.com/node/Person> .
+
+<http://example.com/node/Ramon_Castro_Jijon> a <http://example.com/node/Person> .
+
+<http://example.com/node/Rodrigo_Borja_Cevallos> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q743354> .
+
+<http://example.com/node/Sixto_Duran_Ballen_Cordovez> a <http://example.com/node/Person> .
+
+<http://example.com/node/Vicente_Lucio_Salazar> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3510163> .
+
+<http://example.com/node/Vicente_Ramon_Roca> a <http://example.com/node/Person> .
+
+<http://example.com/node/Vicente_Rocafuerte> a <http://example.com/node/Person> ;
+    owl:sameAs <http://www.wikidata.org/entity/Q879030> .
+
+<http://www.wikidata.org/entity/Q10329> ns4:P6131 <http://www.wikidata.org/entity/statement/Q10329-0c9735f1-41aa-51c6-85c9-c8536d0752c4> ;
+    ns4:P6262 <http://www.wikidata.org/entity/statement/Q10329-8B7CA198-815E-4C4F-9F36-DE5B4C68BF32> ;
+    ns4:P7085 <http://www.wikidata.org/entity/statement/Q10329-dd1652a6-430d-d8f7-1310-a9d673d638d4> ;
+    ns4:P7223 <http://www.wikidata.org/entity/statement/Q10329-5bb416ec-4408-07aa-06fb-ebfbbe9118df> ;
+    ns4:P7280 <http://www.wikidata.org/entity/statement/Q10329-7bf406cd-40cd-2c21-969e-20981e2852ca> ;
+    ns4:P7287 <http://www.wikidata.org/entity/statement/Q10329-f0dd9379-49c0-1263-e4a6-f89f7f1b76b0> ;
+    ns4:P7361 <http://www.wikidata.org/entity/statement/Q10329-2244892a-4108-786e-d9d8-15f5340ce705> ;
+    ns4:P8189 <http://www.wikidata.org/entity/statement/Q10329-7321F5F9-BE8D-42B1-8D1D-9EBE7673FCA5> .
+
+<http://www.wikidata.org/entity/Q119145> ns2:identifiers "10" ;
+    ns2:sitelinks "15" ;
+    ns2:statements "24" ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q7026> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q1492> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q176119> ns1:P1344 <http://www.wikidata.org/entity/Q37285> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P1532 <http://www.wikidata.org/entity/Q96> ;
+    ns1:P2048 "182" ;
+    ns1:P2067 "76" ;
+    ns1:P2193 "43576" ;
+    ns1:P6188 "482" ;
+    ns1:P641 <http://www.wikidata.org/entity/Q2736> .
+
+<http://www.wikidata.org/entity/Q1821930> ns2:sitelinks "14" ;
+    ns2:statements "24" ;
+    ns1:P19 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> ;
+    ns1:P509 <http://www.wikidata.org/entity/Q12192> ;
+    ns1:P570 "1870-11-03T00:00:00Z" .
+
+<http://www.wikidata.org/entity/Q19581> ns1:P102 <http://www.wikidata.org/entity/Q55407092> ;
+    ns1:P108 <http://www.wikidata.org/entity/Q16623885>,
+        <http://www.wikidata.org/entity/Q55645704> ;
+    ns1:P166 <http://www.wikidata.org/entity/Q16141095>,
+        <http://www.wikidata.org/entity/Q25929491>,
+        <http://www.wikidata.org/entity/Q41695835>,
+        <http://www.wikidata.org/entity/Q50616507> ;
+    ns1:P39 <http://www.wikidata.org/entity/Q19845330> .
+
+<http://www.wikidata.org/entity/Q204561> ns4:P571 <http://www.wikidata.org/entity/statement/Q204561-EB64C751-2AC6-4835-AB59-E40671CD821C> ;
+    ns4:P590 <http://www.wikidata.org/entity/statement/Q204561-1cb25555-44bc-932e-df3d-b42682629b46>,
+        <http://www.wikidata.org/entity/statement/Q204561-453d2161-40a4-fe68-c391-a3789503918b> ;
+    ns4:P625 <http://www.wikidata.org/entity/statement/q204561-5FE6B8A5-E089-45CC-8655-8FF57A430F3E> ;
+    ns4:P646 <http://www.wikidata.org/entity/statement/Q204561-98DBFA45-3F33-4AC8-B733-50510F2B1FA8> ;
+    ns4:P774 <http://www.wikidata.org/entity/statement/Q204561-10DDD948-5F4C-40A6-B09F-C8DF8B4B17DB> ;
+    ns4:P856 <http://www.wikidata.org/entity/statement/Q204561-2bd60d7e-41af-bc5a-5b9e-bd6209adda5b> ;
+    ns4:P910 <http://www.wikidata.org/entity/statement/Q204561-A2D73690-3C51-43B8-B7BD-01B8B2BE3E55> .
+
+<http://www.wikidata.org/entity/Q217555> ns4:P4342 <http://www.wikidata.org/entity/statement/Q217555-19069DA4-6494-44B0-9605-8E3658B422A7> ;
+    ns4:P7305 <http://www.wikidata.org/entity/statement/Q217555-09B64234-8A8C-40FC-9CBB-36F5248ADB49> ;
+    ns4:P7859 <http://www.wikidata.org/entity/statement/Q217555-61144BDD-EE81-4011-97A6-154C606456AA> ;
+    ns1:P106 <http://www.wikidata.org/entity/Q39631> ;
+    ns1:P140 <http://www.wikidata.org/entity/Q9592> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q23907063> ns2:identifiers "1" ;
+    ns2:sitelinks "2" ;
+    ns2:statements "7" ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/Q23907063-89F5968D-0F28-4CD4-BF60-4AD4B912B690> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q23907063-3FD6C541-80F1-436F-89DF-124038068487> ;
+    ns3:P2671 <http://g.co/kg/g/11bxg1ncrh> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q253787> ns2:statements "19" ;
+    ns1:P106 <http://www.wikidata.org/entity/Q39631> ;
+    ns1:P140 <http://www.wikidata.org/entity/Q9592> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q2900> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q2900> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q2688125> ns1:P102 <http://www.wikidata.org/entity/Q1523085> ;
+    ns1:P106 <http://www.wikidata.org/entity/Q82955> ;
+    ns1:P1196 <http://www.wikidata.org/entity/Q3739104> ;
+    ns1:P21 <http://www.wikidata.org/entity/Q6581097> ;
+    ns1:P3602 <http://www.wikidata.org/entity/Q5828741> ;
+    ns1:P39 <http://www.wikidata.org/entity/Q732562> ;
+    ns1:P69 <http://www.wikidata.org/entity/Q1643758> ;
+    ns1:P735 <http://www.wikidata.org/entity/Q475210> .
+
+<http://www.wikidata.org/entity/Q2718832> ns3:P214 <http://viaf.org/viaf/43851081> ;
+    ns1:P106 <http://www.wikidata.org/entity/Q82955> ;
+    ns1:P119 <http://www.wikidata.org/entity/Q50842855> ;
+    ns1:P21 <http://www.wikidata.org/entity/Q6581097> ;
+    ns1:P3602 <http://www.wikidata.org/entity/Q5828844> ;
+    ns1:P570 "1911-10-09T00:00:00Z" ;
+    ns1:P735 <http://www.wikidata.org/entity/Q16741111>,
+        <http://www.wikidata.org/entity/Q376340> .
+
+<http://www.wikidata.org/entity/Q2939350> ns5:dateModified "2021-06-26T21:55:33Z" ;
+    ns1:P106 <http://www.wikidata.org/entity/Q82955> ;
+    ns1:P21 <http://www.wikidata.org/entity/Q6581097> ;
+    ns1:P39 <http://www.wikidata.org/entity/Q22230757> ;
+    ns1:P40 <http://www.wikidata.org/entity/Q947906> ;
+    ns1:P509 <http://www.wikidata.org/entity/Q181754> ;
+    ns1:P569 "1856-05-18T00:00:00Z" ;
+    ns1:P735 <http://www.wikidata.org/entity/Q364753> .
+
+<http://www.wikidata.org/entity/Q30914301> ns4:P2671 <http://www.wikidata.org/entity/statement/Q30914301-6A8267CA-998C-44B5-AE0E-D858596563C3> ;
+    ns4:P410 <http://www.wikidata.org/entity/statement/Q30914301-f0848a25-0b0b-4304-84a8-73292dfeb6f4> ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/Q30914301-a3a76793-4160-0569-f93e-d0d3ab8a504f> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q30914301-61ca323c-4e94-7392-0ee2-f6f9e2008466> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q30914301-7118C437-D00E-42E7-A652-3889C761D474> ;
+    ns3:P2671 <http://g.co/kg/g/11c0rtw72n> ;
+    ns1:P2671 "/g/11c0rtw72n" ;
+    ns1:P570 "2009-07-19T00:00:00Z" .
+
+<http://www.wikidata.org/entity/Q3509043> ns4:P268 <http://www.wikidata.org/entity/statement/Q3509043-AC4B7A11-591B-4CC0-B1FF-A7F9C8FA6283> ;
+    ns4:P269 <http://www.wikidata.org/entity/statement/Q3509043-EF1A68BF-FC2E-4C6B-A453-5B6BC23FBB99> ;
+    ns4:P509 <http://www.wikidata.org/entity/statement/Q3509043-1d31c85a-6320-4330-af8a-397e9b2da4ea> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q3509043-4A950799-AEB7-46AC-8DE0-69895F9A4659> ;
+    ns3:P268 <http://data.bnf.fr/ark:/12148/cb12091132f#about> ;
+    ns3:P269 <http://www.idref.fr/169835154/id> ;
+    ns3:P646 <http://g.co/kg/m/06ykj6> ;
+    ns3:P648 <http://openlibrary.org/works/OL1568844A> .
+
+<http://www.wikidata.org/entity/Q3509261> ns4:P373 <http://www.wikidata.org/entity/statement/Q3509261-CB8FF08B-08EB-4D75-800F-8B81D6D310A8> ;
+    ns4:P509 <http://www.wikidata.org/entity/statement/Q3509261-33ddee89-da4d-4b88-80c0-1614f6089522> ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/Q3509261-51EF5824-B185-461A-8D77-995337ED3CC7> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q3509261-694A7A1C-CF3F-4CAD-8545-57428596941E> ;
+    ns4:P646 <http://www.wikidata.org/entity/statement/Q3509261-C9CC0078-572E-4BA1-BB81-20CA334D25D7> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q3509261-1EF17C8D-824E-4CCB-A67F-CB75C68206DC> ;
+    ns3:P646 <http://g.co/kg/m/06ykgh> ;
+    ns1:P214 "7192888" .
+
+<http://www.wikidata.org/entity/Q3509277> ns4:P268 <http://www.wikidata.org/entity/statement/Q3509277-D6083979-CF36-4877-98F6-FE06D2DF8A28> ;
+    ns4:P509 <http://www.wikidata.org/entity/statement/Q3509277-5bde5ce4-e2da-4c6c-85c7-e1e29a72a3be> ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/Q3509277-C14A8E00-26AB-43EB-8450-1649FC03C66B> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q3509277-E4B2F150-CE27-4315-9CD6-AFE39D283749> ;
+    ns3:P2163 <http://id.worldcat.org/fast/271651> ;
+    ns3:P268 <http://data.bnf.fr/ark:/12148/cb12542794q#about> ;
+    ns3:P646 <http://g.co/kg/m/06ykjx> ;
+    ns3:P648 <http://openlibrary.org/works/OL319982A> .
+
+<http://www.wikidata.org/entity/Q3510163> ns4:P1196 <http://www.wikidata.org/entity/statement/Q3510163-B89A92B4-3F3B-4A0C-BB7F-06D8EA9EA6B7> ;
+    ns4:P509 <http://www.wikidata.org/entity/statement/Q3510163-c0bb24a4-ebca-4ba1-9891-f07b316d8740> ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/Q3510163-2059503F-831C-437D-9527-04A89F56B612> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q3510163-4E0E01EC-E01C-4FDE-A6FC-CA2842906F23> ;
+    ns4:P646 <http://www.wikidata.org/entity/statement/Q3510163-F13321D7-411A-4117-8F9B-C788C5BFE3F7> ;
+    ns4:P734 <http://www.wikidata.org/entity/statement/Q3510163-3809A1D0-3E8C-4486-A675-B1530A3CB7A2> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q3510163-86C17006-4541-4932-AE83-8215BF99C77A> ;
+    ns3:P646 <http://g.co/kg/m/06jfr2> .
+
+<http://www.wikidata.org/entity/Q378158> ns4:P268 <http://www.wikidata.org/entity/statement/Q378158-39242530-FCEA-4DF7-993C-EF5C5CA1384B>,
+        <http://www.wikidata.org/entity/statement/q378158-EED93121-129A-4C4E-B409-EFAB232AC88A> ;
+    ns4:P269 <http://www.wikidata.org/entity/statement/q378158-131B7DA3-1E2D-43C3-923D-56C81CE30BF3> ;
+    ns4:P373 <http://www.wikidata.org/entity/statement/q378158-A80A15D4-8B9D-4C05-9F43-FA3BA1B4A402> ;
+    ns4:P410 <http://www.wikidata.org/entity/statement/Q378158-75dab78b-431e-95b9-51a9-6be7aaa9b498> ;
+    ns4:P509 <http://www.wikidata.org/entity/statement/q378158-65C28368-8BE8-485B-A847-3113C792CF6D> ;
+    ns4:P535 <http://www.wikidata.org/entity/statement/Q378158-75fa8601-4bb2-4fb2-f114-eb7e7048ad99> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/q378158-196B84AD-19A6-43B6-9ECB-00F6D13AC2D3> .
+
+<http://www.wikidata.org/entity/Q434552> ns2:identifiers "1" ;
+    ns2:sitelinks "10" ;
+    ns2:statements "12" ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q2900> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> ;
+    ns1:P570 "1996-10-11T00:00:00Z" .
+
+<http://www.wikidata.org/entity/Q434746> ns1:P106 <http://www.wikidata.org/entity/Q40348> ;
+    ns1:P140 <http://www.wikidata.org/entity/Q9592> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> ;
+    ns1:P509 <http://www.wikidata.org/entity/Q12152> .
+
+<http://www.wikidata.org/entity/Q471248> ns2:identifiers "13" ;
+    ns2:sitelinks "27" ;
+    ns2:statements "41" ;
+    ns1:P106 <http://www.wikidata.org/entity/Q40348> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q30>,
+        <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q471291> ns4:P3373 <http://www.wikidata.org/entity/statement/Q471291-b042af06-4909-b8a8-2525-221b4eebb47a> ;
+    ns4:P4342 <http://www.wikidata.org/entity/statement/Q471291-2DB61F1E-A836-4F56-99BF-D9BE0E4F69E5> ;
+    ns4:P7859 <http://www.wikidata.org/entity/statement/Q471291-FFCE7D45-30A0-4278-B193-D7046D69F8E6> ;
+    ns4:P8313 <http://www.wikidata.org/entity/statement/Q471291-AD6D8491-0F5E-4789-874F-B619BF96AE5C> ;
+    ns1:P1142 <http://www.wikidata.org/entity/Q7169> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P509 <http://www.wikidata.org/entity/Q12152> .
+
+<http://www.wikidata.org/entity/Q7122823> ns1:P106 <http://www.wikidata.org/entity/Q82955> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q478675> ;
+    ns1:P21 <http://www.wikidata.org/entity/Q6581097> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P39 <http://www.wikidata.org/entity/Q22230757> ;
+    ns1:P570 "1886-01-01T00:00:00Z" ;
+    ns1:P734 <http://www.wikidata.org/entity/Q37522143> ;
+    ns1:P735 <http://www.wikidata.org/entity/Q3888649> .
+
+<http://www.wikidata.org/entity/Q718247> ns2:sitelinks "17" ;
+    ns2:statements "35" ;
+    ns1:P1142 <http://www.wikidata.org/entity/Q6235> ;
+    ns1:P140 <http://www.wikidata.org/entity/Q7066> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P20 <http://www.wikidata.org/entity/Q43509> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q734584> ns2:identifiers "4" ;
+    ns2:sitelinks "13" ;
+    ns2:statements "20" ;
+    ns1:P20 <http://www.wikidata.org/entity/Q8652> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> ;
+    ns1:P3368 "2568701" ;
+    ns1:P509 <http://www.wikidata.org/entity/Q12152> .
+
+<http://www.wikidata.org/entity/Q743354> ns2:identifiers "17" ;
+    ns2:sitelinks "26" ;
+    ns2:statements "40" ;
+    ns1:P106 <http://www.wikidata.org/entity/Q40348> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P19 <http://www.wikidata.org/entity/Q2900> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q878508> ns2:identifiers "16" ;
+    ns2:sitelinks "24" ;
+    ns2:statements "38" ;
+    ns1:P106 <http://www.wikidata.org/entity/Q36180>,
+        <http://www.wikidata.org/entity/Q40348> ;
+    ns1:P1412 <http://www.wikidata.org/entity/Q1321> ;
+    ns1:P27 <http://www.wikidata.org/entity/Q736> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q5> .
+
+<http://www.wikidata.org/entity/Q879030> ns4:P1006 <http://www.wikidata.org/entity/statement/Q879030-E6DF5431-DBCE-4E31-B545-2940CEA511C7> ;
+    ns4:P1142 <http://www.wikidata.org/entity/statement/Q879030-7cd63999-47e5-bb07-38f9-2067ccaeadaf> ;
+    ns4:P1207 <http://www.wikidata.org/entity/statement/Q879030-C10CB389-844B-4825-96A4-E5A54BFF5BB1> ;
+    ns4:P1412 <http://www.wikidata.org/entity/statement/Q879030-C2556D16-BA78-4014-8A99-26AFA5219557> ;
+    ns4:P648 <http://www.wikidata.org/entity/statement/Q879030-4B602789-1A98-42C1-945E-7D590F69FF1D> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q879030-1C6075FC-048E-4051-9108-DB56D9CA27C8> ;
+    ns4:P937 <http://www.wikidata.org/entity/statement/Q879030-6E337943-486E-40F5-B06D-3FBD3B53E869> ;
+    ns4:P950 <http://www.wikidata.org/entity/statement/Q879030-D3753B03-0A4D-4AD3-A9D5-25751420944F> .
+
+<http://www.wikidata.org/entity/Q887063> ns4:P1006 <http://www.wikidata.org/entity/statement/Q887063-984B0F13-45C5-4029-B921-BBCC7794E49E> ;
+    ns4:P1207 <http://www.wikidata.org/entity/statement/Q887063-4DC80281-0DCE-4456-90D7-E20639571F68> ;
+    ns4:P569 <http://www.wikidata.org/entity/statement/q887063-A63C46FE-9F2C-4BF6-B81F-9FF37287F4F6> ;
+    ns4:P570 <http://www.wikidata.org/entity/statement/Q887063-2DFB62A8-8008-4091-90AF-EE7F44CA95D7>,
+        <http://www.wikidata.org/entity/statement/q887063-FEA80B3D-9213-4D54-91F7-110C3A990071> ;
+    ns4:P646 <http://www.wikidata.org/entity/statement/Q887063-62FB4DC3-7896-4117-B2B8-0519E1D6C7D4> ;
+    ns4:P734 <http://www.wikidata.org/entity/statement/Q887063-CBB75B00-4732-4E76-BA51-362A65A9BA59> ;
+    ns4:P735 <http://www.wikidata.org/entity/statement/Q887063-A5AB60B6-C80D-4AC4-9C4C-7E43DE9534A9> .
+
